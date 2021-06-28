@@ -1,0 +1,47 @@
+*{
+  margin: 0; padding: 0;
+  box-sizing: borer-box;
+}
+body {
+  background-color: rgb(255, 232, 155);
+  text-align: center;
+  margin-top: 6%;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+}
+
+table,
+th,
+td {
+  background-color: #fff;
+  margin-left: 28%;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+}
+
+#fb {
+  background-color: #3b5998;
+}
+
+#link {
+  background-color: #0077b5;
+}
+
+#git {
+  background-color: #333;
+}
+
