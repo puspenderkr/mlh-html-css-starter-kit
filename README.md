@@ -5,7 +5,7 @@ This is a super simple starter kit which uses hmtl and css to create website. Fe
 You could clone this repo (or download the .zip file) to you computer. If you download it as a .zip you'll need to uncompress(open) it. You can then open the folder in any code editor incluiding Vs Code , sublime and atom.
 
 # Useful links to get started!
-👀 See a preview of the website: hhttps://puspenderkr.github.io/mlh-html-css-starter-kit/
+👀 See a preview of the website: https://puspenderkr.github.io/mlh-html-css-starter-kit/
 
 💻 Check out CSS: hhttps://www.w3schools.com/css/default.asp
 
